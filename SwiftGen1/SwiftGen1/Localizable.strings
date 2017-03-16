@@ -1,0 +1,3 @@
+"apples.count" = "You have %d apples";
+"bananas.owner" = "%d bananas belong to %@.";
+"dogs.cats.mice.color" = "%d dogs chase %d cats chasing %d mice of color %@";

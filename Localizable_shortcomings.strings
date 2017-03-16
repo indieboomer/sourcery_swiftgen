@@ -1,0 +1,706 @@
+/* 
+  Localizable.strings
+  DiamondApp
+
+  Created by Darshan H V on 01/04/15.
+  Copyright (c) 2015 Mindtree. All rights reserved.
+*/
+
+//values alphabetically;
+
+
+"about_yourself" = "ABOUT YOURSELF";
+
+"age_error" = "Age cannot be less than 18";
+
+//"AGEvalidation" = "Age cannot be less than 18";
+
+"helpinfoPath" = "en.lproj/SuggestionData.plist";
+
+"error_security_answer_required" = "Answer is required";
+
+"confirm_email" = "CONFIRM EMAIL ADDRESS*";
+
+"confirm_password" = "CONFIRM PASSWORD*";
+
+
+"email_addrs/*" = "EMAIL ADDRESS";
+
+
+"date_of_birth/*" = "DATE OF BIRTH";
+
+"hint_password/*" = "PASSWORD";
+
+
+
+
+"click_here" = "Click here";
+
+"date_of_birth" = "DATE OF BIRTH";
+
+
+"email_addrs" = "EMAIL ADDRESS*";
+
+
+"error_invalid_email" = "Email address you entered seems to be invalid";
+
+
+"enter_valid_email" = "Please enter a valid email address";
+
+"i_dont_know_my_security_question" = "I Don't know my security question";
+
+// Forgot password...
+
+"forgotten" = "FORGOT";
+
+"DONE" = "Done";
+
+"your_password" = "YOUR PASSWORD";
+
+"forgot_password_description" = "Just enter your email address and answer the security question and you have provided when you signed up and we'll reset your password";
+
+"reset_your_password" = "RESET YOUR PASSWORD";
+
+"forgot_password_description_two" = "Fill in the details below, and we'll email you a temporary password to your registered email address.If you have forgotten or you dont have access to your registered email address, contact us with as much detail as you can remember, and we 'll sort it for you.";
+
+"new_password" = "NEW PASSWORD";
+
+"reset_password" = "RESET PASSWORD";
+
+"reset_password_with_arc"="RESET PASSWORD   >";
+
+"security_questions_item1" = "Where were you born?";
+
+"security_questions_item2" = "What was the name of your first pet?";
+
+"security_questions_item3" = "What was your hair color as a child?";
+
+"security_questions_item4" = "What is your favorite movie?";
+
+"security_questions_item5" = "What is your mother's maiden name?";
+
+"security_questions_item6" = "What year was your father born?";
+
+"fp_failed" = "Unable to reset Password please try again later.";
+
+"no_internet_connection" = "Service is temporarily unavailable please try again later.";
+
+"new_password_sent" = "A new password has been set.";
+
+"error" = "ERROR";
+
+"invalid_login" = "Unable to login. Please make sure that your username and password is correct and that you are connected to the internet. If you don’t have an account, sign-up for one - it only takes 1 minute.";
+
+"fname" = "FIRST NAME*";
+
+"description_cookies_two"= "Find out more about cookies.";
+
+"error_accept_terms_and_conditions" = "Please select privacy and terms & condition notice";
+
+"password_star" = "PASSWORD*";
+
+"error_enter_your_first_name" = "Please enter your first name";
+
+"reg_error_enter_your_confirmpassword" = "Please enter your password";
+
+"error_choose_your_birth_month" = "Please choose your month and year of birth";
+
+"error_enter_salon_name" = "Please enter Salon Name";
+"date_format_preference" = "DATE FORMATTER";
+
+"please_fill_out_all_the_fields" = "Please fill out the fields marked with (*)";
+
+"error_enter_last_name" = "Please enter your Last name";
+
+"error_choose_your_country" = "Please choose your country";
+
+"Please note: we use approved digital cookies in these emails to let us know you’ve received them. We might also use the cookies to make sure we’re giving you news and information that interests you. Find out more about cookies." = "Please note: we use approved digital cookies in these emails to let us know you’ve received them. We might also use the cookies to make sure we’re giving you news and information that interests you. Find out more about cookies.";
+
+
+"error_select_security_question" = "Please choose security question";
+
+"lname" = "LAST NAME*";
+
+"registration_header" = "REGISTRATION";
+
+"salon_name" = "SALON NAME*";
+
+"customer_number" = "CUSTOMER NUMBER";
+
+"customer_number*" = "CUSTOMER NUMBER*";
+
+"country" = "SALON COUNTRY*";
+
+"postal_code" = "SALON POSTCODE*";
+
+"security_question" = "SECURITY QUESTION*";
+
+"security_answer" = "SECURITY ANSWER*";
+
+"submit" = "SUBMIT";
+
+"tell_us" = "TELL US";
+
+"txt_registration_complete" = "Thank you for submitting your registration.";
+
+"reg_failed" = "This email id has already been used.";
+
+"Yes! Sign me up to receive emails from Wella which will help me:\n- Save money with exclusive coupons\n- Get inspired with useful tips & ideas\n- Learn about free samples, new products, exciting promotions and other information from P&G and carefully-selected business partners." = "Yes! Sign me up to receive emails from Wella which will help me:\n- Save money with exclusive coupons\n- Get inspired with useful tips & ideas\n- Learn about free samples, new products, exciting promotions and other information from P&G and carefully-selected business partners.";
+
+"date_preference" = "DATE FORMATTER";
+
+
+//------------ Info Screen display -----------------------
+
+"desc_action" = "ACTIONS";
+"desc_action1" = "ACTIONS";
+
+
+
+//NEW CLIENT
+
+"email_addrs*" = "EMAIL ADDRESS*";
+"client_name*" = "CLIENT NAME*";
+"fname*" = "FIRST NAME*";
+"last_name*" = "LAST NAME*";
+"date_of_birth*" = "DATE OF BIRTH*";
+"country_new_client"= "COUNTRY* / CITY* PREFERRED LANGUAGE";
+
+"new_energy_mapping" = "NEW ENERGY MAPPING";
+"enter_energy_code" = "ENTER ENERGYCODE";
+"client_exists_1" = "THIS CLIENT HAS AN EXISTING PROFILE";
+"client_exists_validate" = "VALIDATE";
+
+"client_name1" = "CLIENT";
+"client_name2*" = "NAME*";
+"wc_client_sort_date" = "DATE";
+"wc_client_sort_name" = "NAME";
+"dob2*" = "OF BIRTH*";
+"/ city_new_client*" = "/ CITY*";
+"city_new_client" = "CITY";
+"city_new_client* / POST CODE" = "CITY* / POST CODE";
+"take_photo" = "TAKE PHOTO";
+"Postcode" = "POST CODE";
+
+"nc_sync_agreement" = "I agree to share my data with my stylist for the purpose of them storing my EnergyCode";
+
+// Client Profile...
+
+
+"btn_save" = "SAVE >";
+"back_to_profile" = "BACK TO PROFILE";
+
+"btn_email" = "EMAIL";
+
+"btn_delete" = "DELETE";
+
+"btn_modify" = "MODIFY";
+"btn_modify   >" = "MODIFY >";
+
+
+
+
+"are_you_sure_to_delete_mapping" = "Are you sure you want to delete this EnergyCode Mapping?";
+
+
+"str_edit_my_profile" = "EDIT MY PROFILE";
+
+
+"are_you_sure_to_delete_client" = "Are you sure you want to delete this client?";
+//CONCERN
+
+"cc_text1" = "WHAT DO YOU LIKE ";
+"cc_dislike" = "WHAT DO YOU DISLIKE ";
+"cc_text2" =  "ABOUT YOUR HAIR?";
+"cc_length" = "LENGTH";
+"cc_volume" = "VOLUME";
+"cc_smoothness" = "SMOOTHNESS";
+"cc_shine" = "SHINE";
+"cc_curls" = "CURLS";
+"cc_versatility" = "VERSATILITY";
+"cc_color" = "COLOR";
+"cc_easy_to_style" = "EASY TO STYLE";
+"cc_movement" = "MOVEMENT";
+"cc_thickness" = "THICKNESS";
+"cc_oily" = "OILY";
+"cc_thinning" = "THINNING";
+"cc_difficult_to_style" = "DIFFICULT TO STYLE";
+
+
+
+"cc_dryness" = "DRYNESS";
+"cc_split_ends" = "SPLIT ENDS";
+"cc_dull" = "DULL";
+"cc_lack" = "LACK OF VOLUME";
+"cc_style" = "STYLE DOES NOT LAST";
+"cc_combability" = "COMBABILITY/DAMAGE";
+"cc_frizzy" = "FRIZZY/MANAGEABILITY";
+// CARE HABBITS
+
+"ch_text1" = "WHAT CARE PRODUCTS ";
+"ch_text2" = "DO YOU USE CURRENTLY?";
+"ch_shampoo" = "SHAMPOO";
+"ch_conditioner" = "CONDITIONER";
+"ch_mask" = "MASK";
+"ch_leave_in" = "LEAVE IN";
+"ch_styling" = "STYLING";
+"ch_daily" = "DAILY";
+"ch_other_day" = "EVERY OTHER DAY";
+"ch_2x" = "2X PER WEEK";
+"ch_1x" = "1X PER WEEK";
+"ch_other" = "OTHER";
+
+"cfi_every" = "EVERY:";
+
+
+
+// DERMA  VIEW LABELS------------
+"summary" = "SUMMARY";
+"get_ec" = "CREATE ENERGYCODE ";
+
+
+"email_addrs" = "EMAIL ADDRESS";
+
+"text_forgot_password_part_one" = "Forgot your password?";
+
+"cd_hydro_lipid_balance" = "SCALP HYDRO LIPID BALANCE";
+
+
+"cd_dry" = "VERY DRY";
+
+"cd_sensitivity" = "SCALP SENSITIVITY";
+
+"cd_normal" = "NORMAL";
+
+"cd_sensitive" = "SENSITIVE";
+
+"cd_hairloss" = "HAIRLOSS";
+
+
+"cd_noticeable" = "NOTICEABLE";
+
+"cd_dandruff" = "DANDRUFF – OILY SCALP";//DANDRUFF
+
+"cd_none" = "NONE";
+"cf_none" = "NONE";
+
+
+"cd_visible_flaking" = "VISIBLE FLAKING";
+//---------------------------------------------
+
+// FIBRA View Strings---------------------
+
+
+
+"cfi_colored" = "COLORED";
+
+
+"cfi_percent_of_lightened_hair" = "% OF LIGHTENED HAIR";
+
+"0%" = "0%";
+
+"100%" = "100%";
+
+"cfi_texture_transformed" = "TEXTURE TRANSFORMED";
+
+"cfi_natural" = "NATURAL";
+
+"cfi_permed_straightened" = "PERMED/STRAIGHTENED";
+
+"cfi_damage_porosity" = "DAMAGE / POROSITY";
+
+"cfi_healthy" = "HEALTHY";
+
+"cfi_damaged" = "DAMAGED";
+
+
+
+"NO" = "NO";
+
+
+
+//--------------------------------------------------
+
+// FORMA LOCALIZED TEXT-------
+
+
+"cfo_natural_moisture" = "NATURAL MOISTURE";
+
+"cfo_balanced" = "BALANCED";
+
+
+
+"cfo_short" = "SHORT";
+
+
+"cfo_long" = "LONG";
+
+"prt_volumize_desc" = "FINE HAIR";
+
+
+
+"cfo_very_fine" = "VERY FINE";
+
+"cfo_texture" = "TEXTURE";
+
+"cfo_straight" = "STRAIGHT";
+
+"cfo_curly" = "CURLY";
+
+"cfo_frizz" = "FRIZZ";
+
+"cfo_very_frizzy" = "VERY FRIZZY";
+
+"forma" = "FORMA";
+//-------------------------------------------------------
+
+
+"register_condition_two" = "Yes! Sign me up to receive emails from Wella and my System Professional stylist which will help me:\n- Save money with exclusive coupons\n- Get inspired with useful tips & ideas\n- Learn about free samples, new products, exciting promotions and other information from P&G and carefully-selected business partners.";
+
+"PRIVACY Link"="privacy";
+"Terms & conditions Link"= "T&C";
+
+"description_cookies" = "Please note: we use approved digital cookies in these emails to let us know you’ve received them. We might also use the cookies to make sure we’re giving you news and information that interests you. Find out more about cookies.";
+
+
+"lname" = "LAST NAME*";
+
+"text_login" = "LOGIN";
+
+"Make your dashboard Yours by Stamping your Image on it ,if you have one handy, you can always upload one later" = "Make your dashboard Yours by Stamping your Image on it ,if you have one handy, you can always upload one later";
+"DD" = "DD";
+"mm" = "MM";
+"yyyy" = "YYYY";
+
+
+"Please fill out the fields marked with a star(*)" = "Please fill out the fields marked with a star(*)";
+
+"register_condition_one" ="I agree with the privacy and T&C*.\nYes! Sign me up to receive occasional emails from System Professional and Wella.";
+
+
+"Passwordvalidation" = "Password must contain minimum of 8 characters(One numeric digits compulsory)";
+
+"registration_header" = "REGISTRATION";
+
+"stylist" = "STYLIST";
+
+"submit >" = "SUBMIT    >";
+
+
+"res_modfiy_care_system   >" = "MODIFY CARE SYSTEM > ";
+
+"res_modfiy_system_treatment" = "MODIFY SYSTEM TREATMENT > ";
+
+"sync_alert" = "You have not synced your latest energy Codes. Please click sync below.";
+
+
+
+"trust_is_cornerstone" = "Trust is a corner stone and the success of our buisness depends on it. Wella is committed to maintaining your trust by protecting personal information we collect about you, our consumers. Click here for the full details of our Privacy statement";
+
+"Trust Link Text" = "Click here";
+"Trust_Link" = "http://www.pg.com/privacy/english/privacy_statement.shtml";
+"click_here" = "Click here";
+
+
+
+"YY" = "YY";
+
+
+"wc" = "WELCOME ";
+
+"logout" = "LOG OFF";
+
+
+"str_not_finished" = "[Not finished]";
+
+"wc_newclient" = "+ NEW\nCLIENT";
+
+
+"client_name2" = "NAME";
+
+"wc_client_search" = "SEARCH";
+
+"new_energy_mapping" = "NEW ENERGY MAPPING";
+
+"enter_energy_code" = "ENTER ENERGYCODE";
+
+
+
+//-------------------ENTER ENERGY CODE ------------------------------------
+
+"[Client Name]'s ENERGYCODE:" = "[Client Name]'s ENERGYCODE:";
+
+"ec_add_ec" = "+ ADD CODE";
+
+"treatment" = "TREATMENT";
+
+"treatment:" = "TREATMENT:";
+
+"ec_add_trt" = "+ ADD TREATMENT";
+
+//"send_email" = "SEND BY EMAIL";
+
+
+"back" = "BACK";
+
+"back  >" = " BACK  > ";
+"<back" = "<  BACK";
+
+
+"products" = "PRODUCTS" ;
+
+"logout" = "LOGOFF";
+
+"home" = "HOME";
+
+//-----------PRODUCT---------------
+
+"prt_balance_desc" = "FOR SENSITIVE  SCALP /HAIRLOSS";
+"prt_purify_desc" = "DANDRUFF CONTROL";
+"prt_color_save_desc" = "COLORED HAIR";
+"prt_repair_desc" = "DAMAGED HAIR";
+"prt_solaris_desc" = "SUN PROTECTION";
+"prt_luxe_oil_desc" = "KERATIN PROTECTION";//KERTAIN
+"prt_hydrate" = "HYDRATE";
+"prt_hydrate_desc" = "NORMAL TO DRY HAIR";
+"prt_volumize_desc" = "FINE HAIR";
+"prt_smoothen_desc" = "CURLY UNCURLY HAIR";
+"prt_extra_desc" =  "HIGH PERFORMANCE";
+
+"derma" = "DERMA";
+"forma" = "FORMA";
+"fibra" = "FIBRA";
+
+
+"pr_sample_cleanse" = "CLEANSE";
+"pr_express" = "EXPRESS";
+"pr_intense" ="INTENSE";
+"pr_molecular" = "MOLECULAR";
+"pr_infusion" = "INFUSION";
+"pr_seal" = "SEAL";
+"pr_design" = "DESIGN";
+
+"prod_search" = "ENTER CODE";
+"client_exists_validate  >" = "VALIDATE > ";
+// NEW CLIENT
+
+"email_addrs" = "EMAIL ADDRESS*";
+
+"client_name" = "CLIENT NAME";
+//"DATE OF BIRTH" = "DATE OF BIRTH*";
+
+// RESULTS PAGE
+
+"res_header_system_treatment" = "SYSTEM TREATMENT:";
+"res_header_your_personalized" = "YOUR PERSONALIZED";
+"energy_code" = "ENERGY CODE:";
+"take_mapping" = " TAKE ENERGY MAPPING AGAIN  > ";
+"send_email" = " SEND BY EMAIL  > ";
+"back_to_profile  >" = " BACK TO PROFILE > ";
+"CLIENT" = "CLIENT";
+"RESULT_INFO" = "SACHETS\nCou can complete the client's care system with sachet samples. Please use the samples with the following guidelines.\n\nRECOMMENDATION STARTER:\n1. Client buys system:  'Good choice I’m sure you’ll enjoy them.  And to thank you for your visit, I will also give you a set of sachets so you can extend at home the benefit of the products you tried in our salon [in case they haven’t bought one of the products]. '\n2. Client buys only some products:'The most important product for your transformation is xxx. To thank you for your visit I will also include sachet of the key products you can add to your current regimen.'\n3. Client does not purchase: 'No worries, you have time to think about it.  I will give you your EnergyCode Passport,  and to thank you for your visit  I will also give you three sachets, Shampoo, Mask and Conditioner, so you can extend at home the benefit of the products you just tried in our salon'.";
+
+"cdo_systemResult_action" = "SAMPLING If clients is hesitant, fill in base care range. Explain satisfaction guarantee. Prepare selected products and wrap into bag: Use System Professional bags, wrapping paper. Add: EnergyCode Passport, EC brochure, Sachet Folder, treatment coupons.Prepare Sachet Folder with key products. If client shows purchase intent, add non-purchased products as sachet and add into holder.SCRIPT: The products purchased during Energy Mapping have a satisfaction guarantee, and you can change them if you are not happy with them. Which products  are you interested in?I will also include a few samples of the products you can add to the current regimen. ";
+
+"cdo_systemResult_script" = "CLOSING Recap on the recommendation.  Ask if the client has any more questions. Leave business card and phone number with the client.For walk-in clients:  Thank for her time and visit.  Accompany to reception. Facilitate purchase.  See consumer out.For service client: Start cut/color/care service.SCRIPT: Thank you for your time and enjoy your selection of System Professional products. If you have any questions, you can always contact me under this number/email. ";
+
+
+"result_base" = "BASE";
+"result_advanced" = "ADVANCED";
+// Product names
+
+"B1" = "BALANCE \nSHAMPOO";
+"P1" = "PURIFY \nSHAMPOO";
+"C1" = "COLORSAVE \nSHAMPOO";
+"R1" = "REPAIR \nSHAMPOO";
+"L1" = "LUXEOIL \nKERATIN PROTECT SHAMPOO";
+"SOL1" = "SOLAR \nHAIR & BODY SHAMPOO";
+"H1" = "HYDRATE \nSHAMPOO";
+"V1" = "VOLUMIZE \nSHAMPOO";
+"S1" = "SMOOTHEN \nSHAMPOO";
+"X1D" = "SILVER \nSHAMPOO";
+"X1S" = "SILVERBLONDE \nSHAMPOO";//DEEP \nCLEANSER  Silver Blonde shampoo
+
+"C2" = "COLORSAVE \nCONDITIONER";
+"R2" = "REPAIR \nCONDITIONER";
+"L2" = "LUXEOIL \nKERATIN CONDITIONING CREAM";
+"SOL2" = "SOLAR HYDRO- REPAIR \nCONDITIONER";
+"H2" = "HYDRATE \nCONDITIONER";
+"S2" = "SMOOTHEN \nCONDITIONER";
+"X2E" = "ELASTIC \nFORCE";
+
+"B3" = "BALANCE \nMASK";
+"P3" = "PURIFY \nMASK";
+"C3" = "COLORSAVE \nMASK";
+"R3" = "REPAIR \nMASK";
+"L3" = "LUXEOIL \nKERATIN RESTORE MASK";
+"H3" = "HYDRATE \nMASK";
+"V3" = "VOLUMIZE \nMASK";
+"S3" = "SMOOTHEN \nMASK";
+
+"B4" = "BALANCE \nENERGY SERUM";
+"P4" = "PURIFY \nSHAMPEELING";
+"R4" = "REPAIR \nEMULSION";
+"L4" = "LUXEOIL \nRECONSTRUCTIVE ELIXIR";
+"SOL4" = "SOLAR \nSUN OIL";
+"H4" = "HYDRATE \nEMULSION";
+"V4" = "VOLUMIZE \nEMULSION";
+"X4P" = "PERMLOCK \nEMULSION";
+"X4C" = "COLORLOCK \nEMULSION";
+"X4L" = "LIQUID \nHAIR";
+
+"C+" = "COLORSAVE \nINFUSION";
+"R+" = "REPAIR \nINFUSION";
+"H+" = "HYDRATE \nINFUSION";
+"V+" = "VOLUMIZE \nINFUSION";
+"S+" = "SMOOTHEN \nINFUSION";
+
+"B5" = "BALANCE \nLOTION";
+"P5" = "PURIFY \nLOTION";
+"C5B" = "COLORSAVE \nBI-PHASE -CONDITIONER";
+"C5F" = "COLORSAVE \nFLUID";
+"R5" = "REPAIR \nPERFECT HAIR";
+"L5" = "LUXEOIL \nKERATIN BOOST ESSENCE";
+"SOL5" = "SOLAR \nSEALING CREAM";//SOLAR CREAM
+"H5" = "HYDRATE \nQUENCHING MIST";
+"V5" = "VOLUMIZE \nAEROLIFTER";
+"X5A" = "ALPHA \nENERGY";
+
+"C6" = "COLORSAVE \nSHIMMERING SPRAY";
+"R6" = "REPAIR \nPERFECT ENDS";
+"L6" = "LUXEOIL \nLIGHT OIL KERATIN PROTECT SPRAY";
+"SOL6" = "SOLAR \nHELIO SPRAY";
+"V6" = "VOLUMIZE \nBODYFYING FOAM";
+"S6" = "SMOOTHEN \nCURL DEFINER";
+
+"energy_code1" = "ENERGY";
+
+
+
+"login_save_details" = "Save my login details";
+"text_forgot_password_part_two" = "to reset it.";
+"text_new_user_part_one" = "Are you a new user?";
+"text_new_user_part_two" = "to sign up for an account.";
+"Username_Password_Incorrect" = "Your username or password is incorrect.";
+"SKIP" = "SKIP";
+"SYNC" = "SYNC";
+"send_email_success" = "Your EnergyCode and Treatment code has been sent to your email";
+"energy_code2" = "CODE:";
+"client_concern" = "CLIENT CONCERN";
+"care_habits" = "CARE HABITS";
+"brand_select" = "SELECT BRAND";
+"salon_city" = "SALON CITY*";
+
+// key sshould be added
+"error_enter_postal_code" = "Please enter postal code";
+"result_info_title" = "SACHETS";
+"result_info_actionTitle" = "RECOMMENDATION STARTER:";
+"ENERGY-SCALP" = "ENERGY-SCALP";
+"treatment_molecular_hair_refilling" = "MOLECULAR HAIR REFILLING";
+"treatment_energy_blow_dry" = "ENERGY BLOW-DRY";
+"treatment_essential" = "ESSENTIAL";
+"treatment_reborn" = "REBORN";
+
+
+/*  Camera Feature   */
+
+"Pick photo from" = "Pick photo from";
+"Photo Library" = "Photo Library";
+"Camera" = "Camera";
+
+
+"CONNECT TO YOUR SALOONS (S)" = "CONNECT TO YOUR SALOONS (S)";
+
+"CONNECT TO YOUR SALOONS TEXTVIEW" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+//"country" = "COUNTRY*";
+
+"country/*" = "COUNTRY";
+"Login Failed.Please try again." = "Login Failed.Please try again.";
+//"register_condition_two" = "I agree with the PRIVACY and Terms & conditions";
+"error_enter_city" = "Please enter city.";
+
+"error_enter_customer_number" = "Please enter Customer Number";
+
+"TermsHyperLink" = "http://www.pg.com/en_US/terms_conditions/index.shtml";
+"PrivacyHyperLink" = "http://www.pg.com/privacy/english/privacy_notice.shtml";
+"CookiesLink" = "http://www.pg.com/en_US/privacy/english/cookie_notice.shtml";
+
+
+"The confirm password doesn't match the password entered." = "The confirm password doesn't match the password entered.";
+
+"desc_script" = "QUESTION STARTERS";
+"desc_script1" = "QUESTION STARTERS";
+
+"energy_code" = "ENERGY CODE";
+"result_system_treatment_info_title" = "SYSTEM TREATMENTS";
+"result_info_actionTitle" = "RECOMMENDATION STARTER :";
+
+"register_User_update_mgs" = "User details updated.";
+"UPLOAD PHOTO" = "TAKE PHOTO";
+"PHOTO" = "PHOTO";
+"country*" = "COUNTRY*";
+
+
+// CARE HABBITS add after keys get
+"ch_spray" = "SPRAY";
+"ch_mousse" = "MOUSSE";
+"ch_lotion" = "LOTION";
+"ch_oil" = "OIL";
+"ch_gel" = "GEL";
+"ch_wax" = "WAX";
+"ch_cream" = "CREAM";
+"cfi_untreated" = "NEVER";
+"two_weeks" = "2 WEEKS";
+// DERMA  VIEW LABELS add after keys get------------
+"pillars" = "Pillars";
+"priority" = "Priorities";
+//"FIRST NAME" = "FIRST NAME";
+"SCALP" = "SCALP";
+
+"cfi_many" = "MANY";
+"HAIR FIBER QUALITY" = "HAIR FIBER QUALITY";
+
+"HEAT / SUNEXPOSED" = "SUNEXPOSED";
+"cfi_no" = "CITY WALK";
+
+"cfi_often" = "SUNBATHING";
+
+"Pravicy T&C Text" = "I agree with the privacy and T&C";
+
+
+
+"COARSE" = "COARSE";
+"MEDIUM" = "MEDIUM";
+
+"HAIR TEXTURE" = "HAIR TEXTURE";
+"UPLOAD A PICTURE" = "UPLOAD A PICTURE";
+
+"WHAT IS YOUR PROFESSION" = "WHAT IS YOUR PROFESSION";
+
+"you_are_an_indirect_customer" = "YOU are an Indirect Customer";
+
+"indirect_customer_description" = "YOU order through a distributor";
+
+"you_are_a_wella_professionals_customer" = "YOU ARE A WELLA PROFESSIONALS CUSTOMER";
+
+"YOU ARE A WELLA PROFESSIONALS CUSTOMER and posses a Wella ProfessionalsCustomer No" = "YOU ARE A WELLA PROFESSIONALS CUSTOMER and posses a Wella ProfessionalsCustomer No";
+
+"YOUR PROFESSIONAL SIDE" = "YOUR PROFESSIONAL SIDE";
+"PRODUCT MODIFY" = "TAP ON PRODUCTS TO DELETE";
+"X delete" = "X DELETE";
+"GET ENERGYCODE" =  "GET ENERGYCODE";
+"DELETE YES" = "YES";
+"DELETE CANCEL" = "CANCEL";
+
+"res_header_care_system" = "CARE SYSTEM:";
+//"ec_add_trt" = "ADD TREATMENT";
+"OK" = "OK";
+"THANK YOU" ="THANK YOU";
+"LOGIN  >" = "LOGIN  >";
+"CLIENTS" = "CLIENT'S";
+"preferd_language_label" = "PREFERRED LANGUAGE";
+"send_email_error" = "Unable to send email at this time. Please try again later";
+"pr_max" = "Maximum products are selected, please remove by clicking on selected items!";
+"select"= "Select";
+"SUCCESS" = "SUCCESS";

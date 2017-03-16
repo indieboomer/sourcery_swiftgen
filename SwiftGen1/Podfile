@@ -1,0 +1,9 @@
+platform :ios, "9.0"
+
+source 'https://github.com/CocoaPods/Specs.git'
+
+target "SwiftGen1" do
+
+pod 'SwiftGen'
+
+end

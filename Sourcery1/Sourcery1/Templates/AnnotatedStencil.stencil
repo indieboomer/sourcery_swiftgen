@@ -1,0 +1,11 @@
+{% for type in types.all|annotated:"useThis" %}
+
+extension {{ type.name }} {
+	var variables : String = {
+		return "" {% for variable in type.variables %}
+		  + "{{ variable.name }} : {{ variable.typeName }}"
+		{% endfor %}
+	}
+}
+
+{% endfor %}

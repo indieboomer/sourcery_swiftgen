@@ -1,0 +1,6 @@
+White:ffffff
+Yellow:ffff00
+Red:ff0000
+Green:00ff00
+Blue:00000ff
+Black:000000

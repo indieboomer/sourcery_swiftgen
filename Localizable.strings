@@ -1,0 +1,101 @@
+"summary" = "SUMMARY";
+"get_ec" = "CREATE ENERGYCODE ";
+
+
+"email_addrs" = "EMAIL ADDRESS";
+
+"text_forgot_password_part_one" = "Forgot your password?";
+
+"cd_hydro_lipid_balance" = "SCALP HYDRO LIPID BALANCE";
+
+
+"cd_dry" = "VERY DRY";
+
+"cd_sensitivity" = "SCALP SENSITIVITY";
+
+"cd_normal" = "NORMAL";
+
+"cd_sensitive" = "SENSITIVE";
+
+"cd_hairloss" = "HAIRLOSS";
+
+
+"cd_noticeable" = "NOTICEABLE";
+
+"cd_dandruff" = "DANDRUFF – OILY SCALP";//DANDRUFF
+
+"cd_none" = "NONE";
+"cf_none" = "NONE";
+
+
+"cd_visible_flaking" = "VISIBLE FLAKING";
+//---------------------------------------------
+
+// FIBRA View Strings---------------------
+
+
+
+"cfi_colored" = "COLORED";
+
+
+"cfi_percent_of_lightened_hair" = "% OF LIGHTENED HAIR";
+
+"0%" = "0%";
+
+"100%" = "100%";
+
+"cfi_texture_transformed" = "TEXTURE TRANSFORMED";
+
+"cfi_natural" = "NATURAL";
+
+"cfi_permed_straightened" = "PERMED/STRAIGHTENED";
+
+"cfi_damage_porosity" = "DAMAGE / POROSITY";
+
+"cfi_healthy" = "HEALTHY";
+
+"cfi_damaged" = "DAMAGED";
+
+
+
+"NO" = "NO";
+
+
+
+//--------------------------------------------------
+
+// FORMA LOCALIZED TEXT-------
+
+
+"cfo_natural_moisture" = "NATURAL MOISTURE";
+
+"cfo_balanced" = "BALANCED";
+
+
+
+"cfo_short" = "SHORT";
+
+
+"cfo_long" = "LONG";
+
+"prt_volumize_desc" = "FINE HAIR";
+
+
+
+"cfo_very_fine" = "VERY FINE";
+
+"cfo_texture" = "TEXTURE";
+
+"cfo_straight" = "STRAIGHT";
+
+"cfo_curly" = "CURLY";
+
+"cfo_frizz" = "FRIZZ";
+
+"cfo_very_frizzy" = "VERY FRIZZY";
+
+"forma" = "FORMA";
+//-------------------------------------------------------
+
+
+"register_condition_two" = "Yes! Sign me up to receive emails from Wella and my System Professional stylist which will help me:\n- Save money with exclusive coupons\n- Get inspired with useful tips & ideas\n- Learn about free samples, new products, exciting promotions and other information from P&G and carefully-selected business partners.";

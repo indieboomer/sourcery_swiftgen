@@ -1,0 +1,18 @@
+{% for enum in types.enums %}
+
+{% if enum.hasAssociatedValues %}
+extension {{ enum.name }} {
+ 
+   static var associatedValueTypes: String { 
+        return  ""
+        
+        {% for enumCase in enum.cases %}{% for associatedValueName in enumCase.associatedValues %}
+            + "{{ associatedValueName.typeName }} "
+        {% endfor %}{% endfor %}
+
+    }
+
+}
+{% endif %}
+
+{% endfor %}

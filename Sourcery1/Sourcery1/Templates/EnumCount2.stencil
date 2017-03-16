@@ -1,0 +1,13 @@
+{% for enum in types.enums %}
+extension {{ enum.name }} {
+static var count: Int { return {{ enum.cases.count }} }
+	
+		static var list: String { 
+			var l : String = "" 
+			{% for c in enum.cases %}	
+			l = l + "{{ c.name }} "
+			{% endfor %}			
+			return l
+	    }
+}	
+{% endfor %}
